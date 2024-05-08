@@ -149,7 +149,7 @@ html {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('./assets/Fundo.png') center/cover no-repeat;
+    background: url('https://cdn.discordapp.com/attachments/762765998419083303/1237672446388080651/Fundo.png?ex=663c7fca&is=663b2e4a&hm=4322220eb91920e3a705be6a36e8a0fcd7ec197d99857aafd46cdb7f010a99f4&') center/cover no-repeat;
     filter: brightness(0.1) saturate(2);
     z-index: -1;
 }
